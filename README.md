@@ -31,9 +31,11 @@ bash environment-setup.sh
 * git
 * gpg
 * neovim
+* pip3
 * postgresql
 * spotify
 * synaptic
+* tmux
 * zsh
 
 ##### Environment setup list
