@@ -17,6 +17,7 @@ bash scripts/packages/pip3-install.sh
 bash scripts/packages/postgresql-install.sh
 bash scripts/packages/spotify-install.sh
 bash scripts/packages/synaptic-install.sh
+bash scripts/packages/tig-install.sh
 bash scripts/packages/tmux-install.sh
 bash scripts/packages/zsh-install.sh
 
