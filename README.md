@@ -23,9 +23,10 @@ bash environment-setup.sh
 
 ### List of packages
 
-##### Pacman list
+##### apt-get list
 * atom
 * chrome
+* cmake
 * curl
 * dbeaver
 * git
@@ -39,6 +40,10 @@ bash environment-setup.sh
 * zsh
 
 ##### Environment setup list
-* ruby
-* postgresql
 * git
+* neovim
+* postgresql
+* powerline
+* ruby
+* tmux-mem-cpu-load
+* zsh

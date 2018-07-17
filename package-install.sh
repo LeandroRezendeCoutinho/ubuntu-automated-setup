@@ -9,6 +9,7 @@ fi
 bash scripts/packages/atom-install.sh
 bash scripts/packages/chrome-install.sh
 bash scripts/packages/curl-install.sh
+bash scripts/packages/cmake-install.sh
 bash scripts/packages/dbeaver-install.sh
 bash scripts/packages/git-install.sh
 bash scripts/packages/gpg-install.sh
