@@ -34,6 +34,7 @@ bash environment-setup.sh
 * neovim
 * pip3
 * postgresql
+* silversearcher-ag
 * spotify
 * synaptic
 * tmux
