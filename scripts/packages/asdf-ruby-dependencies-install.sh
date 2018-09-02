@@ -6,4 +6,4 @@ then
     exit 1
 fi
 
-apt-get install --yes silversearcher-ag
+apt-get install --yes libssl-dev libreadline-dev
