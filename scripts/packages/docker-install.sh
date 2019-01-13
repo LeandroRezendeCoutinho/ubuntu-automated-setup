@@ -6,4 +6,4 @@ then
     exit 1
 fi
 
-apt-get install --yes atom
+apt-get install --yes docker-engine docker-compose docker
