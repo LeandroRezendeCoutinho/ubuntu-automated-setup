@@ -1,14 +1,19 @@
 # Automated development setup for Debian based systems
 
 This repo aims to simplify and automate development environmemt
-for users of Debian based Linux.
+for users of Debian Linux.
 
-### How to use
+### Make your user sudo to have a happy life
 
-First access project directory after cloning
+Enter sudo mode
 ```
-cd debian-automated-setup
+su
 ```
+In sudo mode, add you user
+```
+sudo adduser user_name sudo
+```
+
 Follow scripts order
 
 #### Install packages
