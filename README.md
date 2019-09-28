@@ -43,11 +43,17 @@ bash environment-setup.sh
 * tmux
 * visual-studio-code
 
-##### Environment setup list
+##### snap list
+* heroku
+* notepadqq
+* postman
+* slack
+* telegram
+* whatsapp
+
+##### setup list
 * git
-* neovim
-* postgresql
-* powerline
+* asdf
 * ruby
 * tmux-mem-cpu-load
-* zsh
+* fish
