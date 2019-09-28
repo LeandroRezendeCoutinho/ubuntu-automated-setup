@@ -3,22 +3,11 @@
 This repo aims to simplify and automate development environmemt
 for users of Debian Linux.
 
-### Make your user sudo to have a happy life
+First install packages
 
-Enter sudo mode
+#### Install apt packages
 ```
-su
-```
-In sudo mode, add you user
-```
-sudo adduser user_name sudo
-```
-
-Follow scripts order
-
-#### Install packages
-```
-sudo bash package-install.sh
+sudo bash apt-install.sh
 ```
 
 #### Setup development environment *Ruby focused*
