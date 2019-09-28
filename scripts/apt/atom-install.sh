@@ -6,4 +6,10 @@ then
     exit 1
 fi
 
-apt-get install --yes atom
+wget https://atom.io/download/deb
+
+dpkg -i deb
+
+rm deb
+
+apt --fix-broken install
