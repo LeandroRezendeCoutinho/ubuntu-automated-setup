@@ -3,7 +3,12 @@
 This repo aims to simplify and automate development environmemt
 for users of Debian Linux.
 
-First install packages
+First install base packages
+
+#### Install base packages
+```
+sudo bash base-install.sh
+```
 
 #### Install apt packages
 ```
@@ -17,22 +22,26 @@ bash environment-setup.sh
 
 ### List of packages
 
+##### base list
+* apt-transport-https
+* build-essential
+* ca-certificates
+* cmake
+* curl
+* git
+* gpg
+
 ##### apt list
 * atom
 * chrome
-* cmake
-* curl
 * dbeaver
-* git
-* gpg
-* neovim
-* pip3
-* postgresql
-* silversearcher-ag
+* docker
+* fish
 * spotify
 * synaptic
+* tig
 * tmux
-* zsh
+* visual-studio-code
 
 ##### Environment setup list
 * git
