@@ -17,7 +17,7 @@ bash environment-setup.sh
 
 ### List of packages
 
-##### apt-get list
+##### apt list
 * atom
 * chrome
 * cmake

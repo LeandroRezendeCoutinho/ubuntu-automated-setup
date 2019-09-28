@@ -6,4 +6,4 @@ then
     exit 1
 fi
 
-apt-get install --yes tig
+apt install --yes tig

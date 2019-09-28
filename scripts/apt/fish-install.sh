@@ -6,4 +6,4 @@ then
     exit 1
 fi
 
-apt-get install --yes fish
+apt install --yes fish

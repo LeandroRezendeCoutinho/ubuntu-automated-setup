@@ -8,7 +8,7 @@ fi
 
 apt remove --yes docker docker-engine docker.io containerd runc
 # dependencies 
-apt-get install --yes gnupg-agent software-properties-common
+apt install --yes gnupg-agent software-properties-common
 
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 
