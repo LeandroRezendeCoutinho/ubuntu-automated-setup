@@ -6,4 +6,5 @@ then
     exit 1
 fi
 
-apt install --yes libssl-dev libreadline-dev
+apt install --yes libssl-dev libreadline-dev zlib1g-dev
+
