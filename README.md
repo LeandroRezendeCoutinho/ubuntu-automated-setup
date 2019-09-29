@@ -37,6 +37,9 @@ bash environment-setup.sh
 * dbeaver
 * docker
 * fish
+* gnome-shell-extensions
+* ls-sensors
+* mono
 * spotify
 * synaptic
 * tig

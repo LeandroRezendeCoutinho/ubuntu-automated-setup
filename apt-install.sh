@@ -13,6 +13,7 @@ bash scripts/apt/docker-install.sh
 bash scripts/apt/fish-install.sh
 bash scripts/apt/gnome-shell-extensions-install.sh
 bash scripts/apt/lm-sensors-install.sh
+bash scripts/apt/mono-install.sh
 bash scripts/apt/spotify-install.sh
 bash scripts/apt/synaptic-install.sh
 bash scripts/apt/tig-install.sh
