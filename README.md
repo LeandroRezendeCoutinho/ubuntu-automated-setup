@@ -42,6 +42,7 @@ bash environment-setup.sh
 * tig
 * tmux
 * visual-studio-code
+* wine
 
 ##### snap list
 * heroku

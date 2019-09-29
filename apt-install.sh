@@ -18,5 +18,6 @@ bash scripts/apt/synaptic-install.sh
 bash scripts/apt/tig-install.sh
 bash scripts/apt/tmux-install.sh
 bash scripts/apt/visual-studio-code-install.sh
-# bash scripts/apt/asdf-ruby-dependencies-install.sh
+bash scripts/apt/wine-install.sh
+
 
