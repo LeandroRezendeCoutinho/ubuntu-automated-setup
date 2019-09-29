@@ -20,5 +20,6 @@ bash scripts/apt/tig-install.sh
 bash scripts/apt/tmux-install.sh
 bash scripts/apt/visual-studio-code-install.sh
 bash scripts/apt/wine-install.sh
+bash scripts/apt/yarn-install.sh
 
 

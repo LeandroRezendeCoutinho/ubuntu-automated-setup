@@ -46,6 +46,7 @@ bash environment-setup.sh
 * tmux
 * visual-studio-code
 * wine
+* yarn
 
 ##### snap list
 * heroku
