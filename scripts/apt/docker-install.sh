@@ -19,4 +19,4 @@ add-apt-repository \
 
 apt update
 
-apt install --yes docker-ce docker-ce-cli containerd.io
+apt install --yes docker-ce docker-ce-cli containerd.io docker-compose
