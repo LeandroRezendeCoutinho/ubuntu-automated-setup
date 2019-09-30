@@ -45,6 +45,7 @@ bash environment-setup.sh
 * synaptic
 * tig
 * tmux
+* virtualbox
 * visual-studio-code
 * wine
 * yarn
