@@ -40,6 +40,7 @@ bash environment-setup.sh
 * gnome-shell-extensions
 * ls-sensors
 * mono
+* opera
 * spotify
 * synaptic
 * tig
