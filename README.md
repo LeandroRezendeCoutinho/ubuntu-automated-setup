@@ -1,4 +1,4 @@
-# Automated development setup for Debian based systems
+# Automated development setup for Ubuntu linux systems
 
 This repo aims to simplify and automate development environmemt
 for users of Debian Linux.
