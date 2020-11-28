@@ -36,12 +36,15 @@ bash environment-setup.sh
 * chrome
 * dbeaver
 * docker
+* .NET 5 (20.04 LTS)
 * flatpak
 * gnome-shell-extensions
 * ls-sensors
 * mono
 * opera
+* sublime-text
 * synaptic
+* teamviewer
 * tig
 * tmux
 * virtualbox
@@ -50,6 +53,9 @@ bash environment-setup.sh
 * yarn
 * zsh
 
+##### Deprecated apt
+* spotify (using flatpak)
+
 #### flatpak list
 * franz
 * postman
@@ -57,7 +63,7 @@ bash environment-setup.sh
 * spotify
 * zoom
 
-##### snap list
+##### snap list (optional)
 * heroku
 * notepadqq
 * postman
@@ -66,11 +72,14 @@ bash environment-setup.sh
 * whatsapp
 
 ##### setup list
-* git
 * asdf
+* flatpak
+* git
+* heroku
+* nodejs
 * ruby
 * tmux-mem-cpu-load
-* fish
+* zsh
 
-#### Deprecated
+##### Deprecated setup
 * fish
