@@ -36,11 +36,11 @@ bash environment-setup.sh
 * chrome
 * dbeaver
 * docker
+* flatpak
 * gnome-shell-extensions
 * ls-sensors
 * mono
 * opera
-* spotify
 * synaptic
 * tig
 * tmux
@@ -49,6 +49,13 @@ bash environment-setup.sh
 * wine
 * yarn
 * zsh
+
+#### flatpak list
+* franz
+* postman
+* slack
+* spotify
+* zoom
 
 ##### snap list
 * heroku
