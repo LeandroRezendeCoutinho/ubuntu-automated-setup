@@ -1,5 +1,7 @@
 #!bin/bash
 
+echo "Starting fish setup"
+
 curl -L https://get.oh-my.fish | fish
 omf install nelsonjchen
 

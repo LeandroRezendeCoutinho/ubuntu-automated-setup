@@ -1,5 +1,7 @@
 #!bin/bash
 
+echo "Starting Ruby setup"
+
 asdf plugin-add ruby
 
 asdf install ruby 2.5.7

@@ -1,5 +1,7 @@
 #!bin/bash
 
+echo "Starting tmux setup"
+
 if [ ! "`whoami`" = "root" ]
 then
     echo "Use sudo to run this script"

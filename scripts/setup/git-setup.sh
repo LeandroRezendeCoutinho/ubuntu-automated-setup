@@ -1,5 +1,7 @@
 #!bin/bash
 
+echo "Starting git setup"
+
 echo "Git configuration section"
 
 echo "Enter with your git email"
