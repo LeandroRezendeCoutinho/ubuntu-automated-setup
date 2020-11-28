@@ -36,7 +36,6 @@ bash environment-setup.sh
 * chrome
 * dbeaver
 * docker
-* fish
 * gnome-shell-extensions
 * ls-sensors
 * mono
@@ -49,6 +48,7 @@ bash environment-setup.sh
 * visual-studio-code
 * wine
 * yarn
+* zsh
 
 ##### snap list
 * heroku
@@ -63,4 +63,7 @@ bash environment-setup.sh
 * asdf
 * ruby
 * tmux-mem-cpu-load
+* fish
+
+#### Deprecated
 * fish

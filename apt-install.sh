@@ -10,7 +10,6 @@ bash scripts/apt/atom-install.sh
 bash scripts/apt/chrome-install.sh
 bash scripts/apt/dbeaver-install.sh
 bash scripts/apt/docker-install.sh
-bash scripts/apt/fish-install.sh
 bash scripts/apt/gnome-shell-extensions-install.sh
 bash scripts/apt/lm-sensors-install.sh
 bash scripts/apt/mono-install.sh
@@ -23,3 +22,6 @@ bash scripts/apt/virtualbox-install.sh
 bash scripts/apt/visual-studio-code-install.sh
 bash scripts/apt/wine-install.sh
 bash scripts/apt/yarn-install.sh
+bash scripts/apt/zsh-install.sh
+
+# bash scripts/apt/fish-install.sh
