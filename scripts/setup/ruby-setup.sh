@@ -4,11 +4,9 @@ echo "Starting Ruby setup"
 
 asdf plugin-add ruby
 
-asdf install ruby 2.5.7
-asdf install ruby 2.6.6
-asdf install ruby 2.7.2
+asdf install ruby 3.2.2
 
-asdf global ruby 2.7.2
+asdf global ruby 3.2.2
 
 gem install bundler
 gem install rubocop

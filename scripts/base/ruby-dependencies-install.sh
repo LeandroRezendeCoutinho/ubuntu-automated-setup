@@ -10,3 +10,4 @@ apt install --yes libssl-dev
 apt install --yes libreadline-dev
 apt install --yes zlib1g-dev
 apt install --yes libsqlite3-dev
+apt install --yes libyaml-dev

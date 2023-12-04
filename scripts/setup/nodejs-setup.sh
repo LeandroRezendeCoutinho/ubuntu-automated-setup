@@ -10,6 +10,6 @@ export GNUPGHOME="${ASDF_DIR:-$HOME/.asdf}/keyrings/nodejs" && mkdir -p "$GNUPGH
 
 bash ~/.asdf/plugins/nodejs/bin/import-release-team-keyring
 
-asdf install nodejs 15.3.0
+asdf install nodejs 20.10.0
 
-asdf global nodejs 15.3.0
+asdf global nodejs 20.10.0

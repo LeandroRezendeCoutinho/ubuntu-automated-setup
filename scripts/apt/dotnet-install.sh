@@ -13,7 +13,7 @@ wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.
 dpkg -i packages-microsoft-prod.deb
 rm packages-microsoft-prod.deb
 
-apt-get update
-apt-get install -y apt-transport-https
-apt-get update
-apt-get install -y dotnet-sdk-5.0
+apt update
+apt install -y apt-transport-https
+apt update
+apt install -y dotnet-sdk-5.0
