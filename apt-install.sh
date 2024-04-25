@@ -9,6 +9,8 @@ fi
 bash scripts/apt/chrome-install.sh
 bash scripts/apt/dbeaver-install.sh
 bash scripts/apt/docker-install.sh
+bash scripts/apt/fish-install.sh
+bash scripts/apt/flatpak-install.sh
 bash scripts/apt/gnome-shell-extensions-install.sh
 bash scripts/apt/lm-sensors-install.sh
 bash scripts/apt/opera-install.sh
@@ -17,7 +19,6 @@ bash scripts/apt/synaptic-install.sh
 bash scripts/apt/tig-install.sh
 bash scripts/apt/tmux-install.sh
 bash scripts/apt/visual-studio-code-install.sh
-bash scripts/apt/fish-install.sh
 
 # optional
 # bash scripts/apt/dotnet-install.sh

@@ -7,3 +7,4 @@ then
 fi
 
 apt install --yes flatpak
+apt install --yes gnome-software-plugin-flatpak
